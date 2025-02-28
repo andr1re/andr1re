@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**andr1re/andr1re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## **Acerca de mí**
 Soy una profesional con experiencia en atención al cliente y supervisión de campo, en busca de una transición hacia el área de tecnología de la información, específicamente en testing. He terminado el bootcamp Quality Assurance Engineering con duración de 6 meses en TripleTen.
 
