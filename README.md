@@ -10,14 +10,14 @@ Soy una profesional con experiencia en atención al cliente y supervisión de ca
 Tengo una fuerte capacidad de adaptabilidad, priorización de tareas, resolución de problemas y cumplimiento de plazos, desarrolladas a lo largo de 8 años en atención al cliente y supervisión de campo, que son aplicables al testing.
 
 ## **Tecnologías y herramientas**
-JIRA
-DevTools
-Postman
-Android Studio
-Python
-Pytest
-Selenium
-API
+-JIRA
+-DevTools
+-Postman
+-Android Studio
+-Python
+-Pytest
+-Selenium
+-API
 
 ## **Objetivo**
 He decidido enfocarme en el área de TI porque deseo aprender y mantenerme actualizada sobre los constantes cambios y avances en la tecnología.
